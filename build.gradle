@@ -13,7 +13,7 @@ plugins {
 }
 
 group 'de.hshl.isd'
-version '0.0.2'
+version '0.0.3'
 
 repositories {
     jcenter()
@@ -42,7 +42,7 @@ publish {
     userOrg = 'robinnunkesser'
     groupId = 'de.hshl.isd'
     artifactId = 'explicitarchitecture-tunesearch-core-ports'
-    publishVersion = '0.0.2'
+    publishVersion = '0.0.3'
     desc = 'May be used for an example project for Herberto Graça\'s Explicit Architecture.'
     website = 'https://github.com/RobinNunkesser/explicitarchitecture-tunesearch-core-ports-bintray'
 }
