@@ -1,4 +1,4 @@
-package de.hshl.isd.explicitarchitecture.tunesearch.core.ports
+package io.github.robinnunkesser.explicitarchitecture.tunesearch.core.ports
 
 data class TrackEntity(
     val artistName: String,

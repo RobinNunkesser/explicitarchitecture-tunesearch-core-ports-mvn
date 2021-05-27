@@ -1,4 +1,4 @@
-package de.hshl.isd.explicitarchitecture.tunesearch.core.ports
+package io.github.robinnunkesser.explicitarchitecture.tunesearch.core.ports
 
 import de.hshl.isd.explicitarchitecture.Command
 
